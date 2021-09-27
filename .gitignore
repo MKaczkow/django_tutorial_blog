@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# very big database
+**/db/**
+
 # secrets
 **/secret_settings.py
 
