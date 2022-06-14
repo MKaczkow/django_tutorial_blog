@@ -1,5 +1,5 @@
 # base image
-FROM python:3.7
+FROM python:3.10.3-alpine
 
 ENV PYTHONUNBUFFERED=1
 
